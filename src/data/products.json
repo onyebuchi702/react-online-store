@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vans Men's Suede Sk-8 Hi Shoe",
+      "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "groot",
+        "guards of the galaxy"
+      ],
+      "image": "mens-vans.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 19.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    },
+    {
+      "id": 2,
+      "name": "DC Men's Pure SE Skate Shoe",
+      "description": "Stand out, make waves and lay down your best tricks in this two-tone leather technical design from DC. Featuring a lace-up front for full adjustability, the low-profile Pure Se is equipped with a sturdy upper, generous cushioning at the collar and tongue, and plenty of padding at the insole for those extra-hard landings. The thick rubber midsole lends added shock absorbency, while the grip rubber bottom will keep you glued to your board.",
+      "keywords": [
+        "skate",
+        "men",
+        "DC",
+        "shoe"
+      ],
+      "image": "womens-vans.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 59.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    },
+    {
+      "id": 3,
+      "name": "Lucky Chouette X Vans",
+      "description": "Funky Style and Chic Look \nRenowned for its sister brand, Jardin de Chouette\n\nCreated in 2009, Lucky Chouette quickly won a large Korean celebrity fan base for its funky styles with street cool graphics and humorous art works. \nChouette means owl in French and indicates good luck. \nThus, various owl character prints play a huge part in the design, like Techno Chouette, Yo Chouette, Apple Chouette, etc. \n\nLucky Chouette suggests distinctive style blended with diverse culture for active and smart young women who defy any hint of boredom.\n\n\nNew contemporary character brand \nChunky and casual silhouettes; short and flared skirts, oversized blouses",
+      "keywords": [
+        "lucky",
+        "Chouette",
+        "vans",
+        "sneaks"
+      ],
+      "image": "chouette-vans.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 14.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    },
+    {
+      "id": 4,
+      "name": "Vans Authentic Black Canvas Womens Trainers",
+      "description": "The Vans Authentic is a time tested classic. This retro plimsoll is part of the Off The Wall range and is durable, responsive, and stylish with a lace up front and subtle branding on the outside. Finished off with the vulcanised Waffle sole",
+      "keywords": [
+        "vans",
+        "authentic",
+        "canvas",
+        "trainers"
+      ],
+      "image": "canvas.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 89.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    },
+    {
+      "id": 5,
+      "name": "DC Trase TX Skate Shoe (Little Kid/Big Kid)",
+      "description": "The trase continues to make a statement with bold new graphic prints, colors and lux materials. The original, since now.\n\nDC recognizes the fusion between art and skateboarding, taking footwear to the next level. Delivering uncompromising comfort, durability, and eye-catching fashion, DC is the source for everyday and technical skateboarding footwear.",
+      "keywords": [
+        "Trase",
+        "Skate",
+        "adventure",
+        "Shoe"
+      ],
+      "image": "skate.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 114.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    },
+    {
+      "id": 6,
+      "name": "Girls' Rio Casual Sneaker",
+      "description": "Add some old-school cool to her look with this laid-back Airwalk sneaker. It features a quality canvas upper with laces for a good fit, a cushiony insole for comfort and a flexible, non-marking, built-up outsole. Fabric and rubber.",
+      "keywords": [
+        "Girls",
+        "Rio",
+        "Casual",
+        "Sneaker"
+      ],
+      "image": "girls-rio.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 114.99,
+      "requiresShipping": true,
+      "taxable": true,
+      "optionTitle": "Size 11"
+    }
+  ]
+}
